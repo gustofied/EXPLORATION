@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Claude-Joseph_Vernet_-_A_Storm_on_a_Mediterranean_Coast_-_Google_Art_Project.jpg/960px-Claude-Joseph_Vernet_-_A_Storm_on_a_Mediterranean_Coast_-_Google_Art_Project.jpg?20121018212331" alt="EXPLORATION" width="340" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Claude-Joseph_Vernet_-_A_Storm_on_a_Mediterranean_Coast_-_Google_Art_Project.jpg/960px-Claude-Joseph_Vernet_-_A_Storm_on_a_Mediterranean_Coast_-_Google_Art_Project.jpg?20121018212331" alt="EXPLORATION" width="540" />
 </p>
 
 <h1 align="center">EXPLORATION</h1>
